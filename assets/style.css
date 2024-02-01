@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+main {
+  padding: 20px;
+}
+.time-block {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.past {
+  background-color: #d3d3d3;
+}
+.present {
+  background-color: #ff6961;
+}
+.future {
+  background-color: #77dd77;
+}
+button {
+  margin-top: 5px;
+}
